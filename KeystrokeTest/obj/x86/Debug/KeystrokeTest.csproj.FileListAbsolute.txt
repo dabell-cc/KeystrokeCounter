@@ -1,0 +1,4 @@
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeTest\bin\Debug\KeystrokeTest.exe
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeTest\bin\Debug\KeystrokeTest.pdb
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeTest\obj\x86\Debug\KeystrokeTest.exe
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeTest\obj\x86\Debug\KeystrokeTest.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeystrokeCounter", "KeystrokeCounter\KeystrokeCounter.csproj", "{9336BDB8-A7F9-4481-8C45-506A9F2AE11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeystrokeTest", "KeystrokeTest\KeystrokeTest.csproj", "{F7948F2C-52EA-46F3-8762-23B769E85F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9336BDB8-A7F9-4481-8C45-506A9F2AE11E}.Debug|x86.ActiveCfg = Debug|x86
+		{9336BDB8-A7F9-4481-8C45-506A9F2AE11E}.Debug|x86.Build.0 = Debug|x86
+		{9336BDB8-A7F9-4481-8C45-506A9F2AE11E}.Release|x86.ActiveCfg = Release|x86
+		{9336BDB8-A7F9-4481-8C45-506A9F2AE11E}.Release|x86.Build.0 = Release|x86
+		{F7948F2C-52EA-46F3-8762-23B769E85F7E}.Debug|x86.ActiveCfg = Debug|x86
+		{F7948F2C-52EA-46F3-8762-23B769E85F7E}.Debug|x86.Build.0 = Debug|x86
+		{F7948F2C-52EA-46F3-8762-23B769E85F7E}.Release|x86.ActiveCfg = Release|x86
+		{F7948F2C-52EA-46F3-8762-23B769E85F7E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

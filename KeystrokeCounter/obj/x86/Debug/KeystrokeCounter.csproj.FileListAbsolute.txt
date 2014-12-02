@@ -1,0 +1,8 @@
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\KeystrokeCounter.exe
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\bin\Debug\KeystrokeCounter.pdb
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.Form1.resources
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.Properties.Resources.resources
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.csproj.GenerateResource.Cache
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.exe
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.pdb
+\\FS09D\STU11\Home\DAbell-cc\Visual Studio 2010\Projects\KeystrokeCounter\KeystrokeCounter\obj\x86\Debug\KeystrokeCounter.csprojResolveAssemblyReference.cache
